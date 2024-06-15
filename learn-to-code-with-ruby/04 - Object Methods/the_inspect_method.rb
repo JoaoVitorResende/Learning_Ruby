@@ -1,0 +1,1 @@
+puts "inspects\n".inspect

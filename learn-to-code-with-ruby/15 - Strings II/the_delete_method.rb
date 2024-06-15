@@ -1,0 +1,1 @@
+p "jopao foi fazer suco".delete("p")
